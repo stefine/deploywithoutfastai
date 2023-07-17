@@ -1,0 +1,2 @@
+# deploywithoutfastai
+Remove fastai dependency
